@@ -2,7 +2,7 @@
 
 [![Li0902](https://img.shields.io/badge/Li0902-github-blue?logo=github)](https://github.com/Li0902)
 
-Li Junping is currently a Master's candidate in Clinical Medicine at South China University of Technology, with a strong foundation in clinical research and data analysis.
+Li Junping completed his Master's degree in Clinical Medicine (Academic Track) at South China University of Technology (985/211/Double First-Class Initiative) in June 2025, with specialized expertise in clinical data mining and medical statistical analysis
 
 #### Contact
 Email: 1229167413@qq.com
