@@ -12,13 +12,13 @@ M.M., Clinical Medicine, South China University of Technology, 2022–2025
 B.M., Clinical Medicine, Gannan Medical University, 2017–2022
 
 #### Research Experience
-**Clinical Data Research Assistant** | South China University of Technology | 2022–Present
+**Clinical Data Research** | South China University of Technology | 2022–Present
 - Conduct observational studies using SEER, NHANES, GBD, MIMIC, and CHARLS databases
 - Perform multi-omics data analysis including GEO, TCGA, and single-cell sequencing data
 - Develop clinical prediction models using machine learning and statistical methods
 - Publish first-author SCI paper in Q1 journal (Impact Factor 7.0)
 
-**Laboratory Researcher** | South China University of Technology | 2022–2025
+**Laboratory Research** | South China University of Technology | 2022–2025
 - Master hematological tumor cell culture and immunohistochemistry techniques
 - Conduct molecular biology experiments and tumor immunology research
 - Apply cellular and molecular biology knowledge to clinical research projects
@@ -36,7 +36,6 @@ B.M., Clinical Medicine, Gannan Medical University, 2017–2022
 - Mendelian Randomization
 - Machine Learning Applications
 - Clinical Prediction Modeling
-- Bibliometrics
 
 **Professional Certifications**
 - Medical Practitioner Qualification Certificate
