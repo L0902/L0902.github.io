@@ -16,18 +16,6 @@
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="1000" height="563" src="https://www.bilibili.com/video/BV1uZmLB1ENE/?spm_id_from=333.1387.homepage.video_card.click&vd_source=71eba638397f24dedfda4d31277e2ad4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## 如何添加更多视频
-
-要添加更多视频，只需在这个文件中继续添加新的部分，使用以下格式：
-
-```html
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="1000" height="563" src="YOUR_VIDEO_URL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-```
-
-将 `YOUR_VIDEO_URL` 替换为您要嵌入的视频链接。
-
 ## 示例视频 3
 
 下面是一个真正的第三个视频嵌入示例：
